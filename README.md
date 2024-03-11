@@ -1,7 +1,7 @@
 # vesper-windows-terminal
 Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper) by [Rauno Freiberg](https://github.com/raunofreiberg) for Windows Terminal.  
 
-![screenshot of the theme](/screenshots/screenshot.png)
+![screenshot of the theme](/screenshots/vesper.png)
 
 ### Installing
 
