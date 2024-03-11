@@ -1,5 +1,5 @@
 # vesper-windows-terminal
-Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper) by [Rauno Freiberg](https://github.com/raunofreiberg) for Windows Terminal,  
+Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper) by [raunofreiberg](https://github.com/raunofreiberg) for Windows Terminal,  
 inspired by [bdsqqq](https://github.com/bdsqqq)'s [port](https://github.com/bdsqqq/warp-term-vesper-theme) for Warp.
   
 ![screenshot of the theme](/screenshots/vesper.png)
