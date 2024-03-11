@@ -10,5 +10,6 @@ To install the theme, copy the contents of the theme.json file in the "schemes" 
   
     
 
-> Disclaimer: this is still a work in progress and lacks the defining colors of the original theme.  
+> Disclaimer: this is still a work in progress. I've never experimented with creating a color scheme so colors might not be consistent.  
+> This was not made with accessibility in mind, because of both a lack of skill and time.   
 
