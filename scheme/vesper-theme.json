@@ -6,7 +6,7 @@
     "foreground": "#FFFFFF",
     "black": "#101010",
     "blue": "#ACA1CF",
-    "cyan": "#98FFE4",
+    "cyan": "#99FFE4",
     "green": "#90B99F",
     "purple": "#E29ECA",
     "red": "#FF8080",
@@ -16,8 +16,8 @@
     "brightBlue": "#B9AEDA",
     "brightCyan": "#b4ffeb",
     "brightGreen": "#99FFE4",
-    "brightPurple": "#ECAAD6",
-    "brightRed": "#FD9494",
+    "brightPurple": "#65737E",
+    "brightRed": "#FFC799",
     "brightWhite": "#FFFFFF",
     "brightYellow": "#ffcfa7"
 }
